@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ankit98040/Weather-app-Node.Js/issues"
   },
-  "homepage": "https://github.com/ankit98040/Weather-app-Node.Js#readme"
+  "homepage": "https://github.com/ankit98040/Weather-app-Node.Js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
 }
