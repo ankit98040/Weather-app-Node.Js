@@ -1,0 +1,19 @@
+{
+  "name": "weather-app-node.js",
+  "version": "1.0.0",
+  "description": "Asynchronous weather app using Node.js and weather api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit98040/Weather-app-Node.Js.git"
+  },
+  "author": "Ankit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankit98040/Weather-app-Node.Js/issues"
+  },
+  "homepage": "https://github.com/ankit98040/Weather-app-Node.Js#readme"
+}
